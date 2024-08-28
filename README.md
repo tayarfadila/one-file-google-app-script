@@ -1,4 +1,4 @@
-# GAS-dashboard
+# GAS-dashboard (one-file-google-app-script)
 
 Creating a single-page web app with Google Apps Script (GAS) for a dashboard-style application involves combining HTML, CSS, and JavaScript within a single HTML file. Here's an example of how you can structure the HTML file and use Google Apps Script to retrieve data from Google Sheets and display it in a dashboard-like format.
 
